@@ -1,0 +1,5 @@
+<section>
+    <h2>Mentions légales</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis possimus consequuntur, natus praesentium accusamus deleniti, explicabo repudiandae vel iste iure rerum perferendis tenetur debitis repellendus omnis nostrum excepturi magnam eos doloremque. Molestiae cupiditate dignissimos id exercitationem dolorem, possimus ea et deleniti consequatur animi voluptatibus quod debitis odit ex, optio beatae. Culpa odit assumenda ex eaque corporis earum, dignissimos doloremque mollitia nemo voluptatum explicabo repudiandae. Quos tenetur consequatur doloremque iste praesentium itaque, cum id quibusdam, dolorem earum saepe excepturi atque reprehenderit natus architecto ipsam eligendi corporis! Tempore assumenda architecto cumque ducimus veritatis unde nam quis quos distinctio quisquam! Corporis, nesciunt necessitatibus?
+    </p>
+</section>
