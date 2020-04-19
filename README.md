@@ -1,9 +1,11 @@
-# Oblog Project
+# Oshop
 
 Ce projet est une ébauche de galerie commerçante sans la gestion du panier client. 
 
 Contributors
 --
+
+- Axel P. : Aide à la mise en production
 - Ecole O'Clock : Singleton Pattern pour la connexion à la BDD, galerie d'images
 - Guillaume S. : correction et conseils en vue d'améliorer le changement de devises, et la factorisation des méthodes 
 
